@@ -1,0 +1,3 @@
+DEBUG:2024-11-22 20:29:36,011 - Created Animal: Leo, Species: Lion
+DEBUG:2024-11-22 20:29:36,011 - Animal Info - Name: Leo, Species: Lion
+ERROR:2024-11-22 20:29:36,011 - Error occurred: division by zero
